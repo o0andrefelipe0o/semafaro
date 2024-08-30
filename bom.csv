@@ -1,0 +1,8 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"D1, D10, D7, D13",4,"Verde LED"
+"D3, D2, D11, D5",4,"Amarelo LED"
+"D8, D4, D6, D9",4,"Vermelho LED"
+"R7, R1, R3, R4, R5, R6",6,"330 Ω Resistor"
+"Digit13, Digit12, Digit1, Digit14",4,"Catódica Visor de sete segmentos"
+"R9, R10, R14, R15, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27",14,"220 Ω Resistor"
